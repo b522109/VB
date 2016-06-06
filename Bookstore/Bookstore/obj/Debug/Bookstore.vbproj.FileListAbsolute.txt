@@ -1,0 +1,24 @@
+C:\Users\schoenbohm\Desktop\New Folder\OOBookstore-master\OO Bookstore\bin\Debug\OO Bookstore.exe.config
+C:\Users\schoenbohm\Desktop\New Folder\OOBookstore-master\OO Bookstore\bin\Debug\OO Bookstore.exe
+C:\Users\schoenbohm\Desktop\New Folder\OOBookstore-master\OO Bookstore\bin\Debug\OO Bookstore.pdb
+C:\Users\schoenbohm\Desktop\New Folder\OOBookstore-master\OO Bookstore\bin\Debug\OO Bookstore.xml
+C:\Users\schoenbohm\Desktop\New Folder\OOBookstore-master\OO Bookstore\obj\Debug\OO_Bookstore.Resources.resources
+C:\Users\schoenbohm\Desktop\New Folder\OOBookstore-master\OO Bookstore\obj\Debug\Bookstore.vbproj.GenerateResource.Cache
+C:\Users\schoenbohm\Desktop\New Folder\OOBookstore-master\OO Bookstore\obj\Debug\OO Bookstore.exe
+C:\Users\schoenbohm\Desktop\New Folder\OOBookstore-master\OO Bookstore\obj\Debug\OO Bookstore.xml
+C:\Users\schoenbohm\Desktop\New Folder\OOBookstore-master\OO Bookstore\obj\Debug\OO Bookstore.pdb
+C:\Users\schoenbohm\Desktop\New Folder\OOBookstore-master\OO Bookstore\obj\Debug\OO_Bookstore.frmBookStore.resources
+C:\Users\schoenbohm\Desktop\New Folder\Bookstore\Bookstore\bin\Debug\OO Bookstore.exe.config
+C:\Users\schoenbohm\Desktop\New Folder\Bookstore\Bookstore\obj\Debug\OO_Bookstore.frmBookStore.resources
+C:\Users\schoenbohm\Desktop\New Folder\Bookstore\Bookstore\obj\Debug\OO_Bookstore.Resources.resources
+C:\Users\schoenbohm\Desktop\New Folder\Bookstore\Bookstore\obj\Debug\Bookstore.vbproj.GenerateResource.Cache
+C:\Users\schoenbohm\Dropbox\Class Documents\Assignments\Assignment 7\Bookstore\Bookstore\obj\Debug\Bookstore.vbproj.GenerateResource.Cache
+C:\Users\schoenbohm\Dropbox\Class Documents\Assignments\Assignment 7\Bookstore\Bookstore\bin\Debug\Bookstore.exe.config
+C:\Users\schoenbohm\Dropbox\Class Documents\Assignments\Assignment 7\Bookstore\Bookstore\bin\Debug\Bookstore.exe
+C:\Users\schoenbohm\Dropbox\Class Documents\Assignments\Assignment 7\Bookstore\Bookstore\bin\Debug\Bookstore.pdb
+C:\Users\schoenbohm\Dropbox\Class Documents\Assignments\Assignment 7\Bookstore\Bookstore\bin\Debug\Bookstore.xml
+C:\Users\schoenbohm\Dropbox\Class Documents\Assignments\Assignment 7\Bookstore\Bookstore\obj\Debug\Bookstore.frmBookStore.resources
+C:\Users\schoenbohm\Dropbox\Class Documents\Assignments\Assignment 7\Bookstore\Bookstore\obj\Debug\Bookstore.Resources.resources
+C:\Users\schoenbohm\Dropbox\Class Documents\Assignments\Assignment 7\Bookstore\Bookstore\obj\Debug\Bookstore.exe
+C:\Users\schoenbohm\Dropbox\Class Documents\Assignments\Assignment 7\Bookstore\Bookstore\obj\Debug\Bookstore.xml
+C:\Users\schoenbohm\Dropbox\Class Documents\Assignments\Assignment 7\Bookstore\Bookstore\obj\Debug\Bookstore.pdb
